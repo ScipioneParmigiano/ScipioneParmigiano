@@ -1,6 +1,8 @@
 - ⛩️ Hello everyone, my (nick)name is @ScipioneParmigiano
 
-- I'm a student of _economics_ in Swiss. My main interests are:
+- I'm a student of _economics_ in Swiss.
+
+-   My main interests are:
     - 📈 **statistics** applied to economics;
     - 🏈 **sport**: I practice calisthenics;
     - 🔖 **latin**: I'm translating Virgil's Aeneid;
