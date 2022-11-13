@@ -1,13 +1,9 @@
 - ⛩️ Hello everyone, my (nick)name is @ScipioneParmigiano
 
-- I study _economics_ at USI in Lugano (CH), even if I live on lake Como (IT), my main interests are:
-    - 📈 **data science** applied in economics;
+- I'm a student of _economics_ in Swiss. My main interests are:
+    - 📈 **statistics** applied to economics;
     - 🏈 **sport**: I practice calisthenics;
     - 🔖 **latin**: I'm translating Virgil's Aeneid;
-    - 💻 **programming**: even if I'm a rookie I love programming (R and a bit of Python).
-   
-	 
-- In my free time I’m used to study something by my own, currently I'm intrested in _game theory_. 
+    - 💻 **programming**: even if I'm still a rookie I love programming (R and a bit of Python).
 
 - 📫 To contact me, write at pcs_parmigiano@gmal.com 
-	
