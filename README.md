@@ -8,4 +8,4 @@
     - 🔖 **latin**: I'm translating Virgil's Aeneid;
     - 💻 **programming**: even if I'm still a rookie I love programming (R and a bit of Python).
 
-- 📫 To contact me, write at pcs_parmigiano@gmal.com 
+- 📫 To contact me, write to pcs_parmigiano@gmal.com 
