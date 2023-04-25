@@ -1,6 +1,6 @@
 - ⛩️ Hello everyone, my (nick)name is @ScipioneParmigiano
 
-- I'm a _economics_ student in Switzerland and I'm the owner of www.zanotp.com.
+- I'm an _economics_ student in Switzerland and I'm the owner of www.zanotp.com.
 
 -   My main interests are:
     - 📈 **statistics** applied to economics;
