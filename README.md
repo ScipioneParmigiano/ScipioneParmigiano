@@ -4,6 +4,6 @@
 
 -   My main interests are:
     - 📈 **statistics** applied to economics;
-    - 💻 **programming**: even if I'm still a rookie I love programming (R, Python and a bit of SOlidity).
+    - 💻 **programming**: even if I'm still a rookie I love programming (R, Python and Solidity).
 
 - 📫 To contact me, write to pcs_parmigiano@gmal.com 
