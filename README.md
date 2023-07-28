@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=scipione_parmigiano&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ScipioneParmigiano&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### About Me :
