@@ -18,7 +18,7 @@
 </div>
 
 ### About Me :
-I'm a blockachain developer from Italy:
+I'm a blockchain developer from Italy:
 - :telescope: I’m currentrly mastering Solidity partecipating to hackathons and building dApps.
 
 - :seedling: Exploring Technical Content Writing.
