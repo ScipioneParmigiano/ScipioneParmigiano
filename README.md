@@ -26,7 +26,7 @@ I'm an eclectic developer from Italy whose main passions are:
 In my free time I:
 - 🌱: exploring technical content writing;
 - ⚡: study some mathematics and statistics;
-- 🥇: take part in hackatons and practice sport.
+- 🥇: take part in hackathons and practice sport.
 
 ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkediln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-zanotta-62613125b/)
 
