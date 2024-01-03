@@ -18,14 +18,17 @@
 </div>
 
 ### About Me :
-I'm a blockchain developer from Italy:
-- :telescope: I’m currentrly mastering Solidity partecipating to hackathons and building dApps.
+I'm an eclectic developer from Italy whose main passions are:
+- 🔭: numerical methods and scientific computing;
+- ⛓️: blockchain technology and real world asset tokenization;
+- ⚛️: quantum computing and quantum algorithms.
 
-- :seedling: Exploring Technical Content Writing.
+In my free time I:
+- 🌱: exploring technical content writing;
+- ⚡: study some mathematics and statistics;
+- 🥇: take part in hackatons and practice sport.
 
-- :zap: In my free time, I study some mathematics and statistics.
-
-- ✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkediln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-zanotta-62613125b/)
+✉️ How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkediln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-zanotta-62613125b/)
 
   <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
