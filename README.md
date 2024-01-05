@@ -24,7 +24,7 @@ I'm an eclectic developer from Italy whose main passions are:
 - ⚛️: quantum computing and quantum algorithms.
 
 In my free time I:
-- 🌱: exploring technical content writing;
+- 🌱: explore technical content writing;
 - ⚡: study some mathematics and statistics;
 - 🥇: take part in hackathons and practice sport.
 
