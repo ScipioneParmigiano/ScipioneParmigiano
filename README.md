@@ -4,7 +4,7 @@
   <a href="www.linkedin.com/in/pietro-zanotta-62613125b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.zanotp.com/">
+  <a href="https://amm.zanotp.com/">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
   <a href="https://twitter.com/pietro_zanotta">
