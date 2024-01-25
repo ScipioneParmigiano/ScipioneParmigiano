@@ -7,8 +7,8 @@
 
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" width="200"/>
-  <div id="badges" align="center>
-  <a href="www.linkedin.com/in/pietro-zanotta-62613125b">
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pietro-zanotta-62613125b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://amm.zanotp.com/">
